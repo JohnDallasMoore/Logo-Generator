@@ -1,4 +1,4 @@
-const questions;
+const questions = require('./questions');
 const generateLogo;
 const inquirer = require('inquirer');
 const fs = require('fs');
