@@ -1,5 +1,5 @@
-const questions = require('./questions');
-// const generateLogo;
+const questions = require('./lib/questions');
+const generateLogo = require('./lib/generateLogo');
 const inquirer = require('inquirer');
 const fs = require('fs');
 
