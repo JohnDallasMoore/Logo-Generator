@@ -1,10 +1,14 @@
 const questions = require('./questions');
-const generateLogo;
+// const generateLogo;
 const inquirer = require('inquirer');
 const fs = require('fs');
 
-function main(){
-
+function askQuestions(){
+    inquirer.prompt(questions).then(function(answers){
+        console.log(answers);
+    })
 };
 
-main();
+(() =>{
+    askQuestions();
+})()
