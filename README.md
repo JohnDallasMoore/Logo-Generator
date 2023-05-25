@@ -17,7 +17,7 @@
 
 Logo Generator is a JavaScript command-line application that allows users to generate SVG logos based on their input. It utilizes the Inquirer library for user prompts and provides options to customize the logo's text, text color, shape and shape color. The application currently supports circles, triangles and squares.
 
-[Walkthrough](https://drive.google.com/file/d/1K674UhCyTcu-6VcBCKZyBiBesPj9FMzy/view)
+[Video Walkthrough](https://drive.google.com/file/d/1K674UhCyTcu-6VcBCKZyBiBesPj9FMzy/view)
 
 ---
 
